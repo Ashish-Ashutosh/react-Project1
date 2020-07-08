@@ -1,1 +1,1 @@
-POC for dynamic props and rendering
+- creates a NameCard based on User Input
